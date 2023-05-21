@@ -1,0 +1,23 @@
+ul {
+    list-style: none;
+    margin-left: 6rem;
+}
+li{
+    width: 500px;
+}
+.op-btns{
+    font-size: x-large;
+    min-height: 40px;
+    background-color: white;
+    border-radius: 8px;
+    border: none;
+    width: 240px;
+}
+
+.op-btn:hover{
+    background-color: aliceblue;
+}
+
+.less-margin{
+    margin: 20px auto;
+}

@@ -1,0 +1,10 @@
+.card{
+    width: fit-content;
+    margin: 80px auto;
+    background-color: rgb(4, 88, 88);
+    border-radius: 14px;
+    padding: 1rem;
+    color: aliceblue;
+    border: none;
+}
+

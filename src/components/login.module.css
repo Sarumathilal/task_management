@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    color: aliceblue;
+    font-size: large;
+}
+.heading{
+    text-align: center;
+    color: aliceblue;
+    font-size: x-large;
+}
+input{
+    height: 1.5rem;
+    border-radius: 5px;
+    border-style: none;
+    margin-bottom: 20px;
+    min-width: 200px;
+}
+.label{
+    margin-left: 0;
+    font-size: large;
+}
+.login-btn{
+    width: 30%;
+    height:1.5rem;
+    margin: 5px auto;
+    background-color: white;
+    border-style: none;
+    border-radius: 5px;
+    font-size: large;
+}

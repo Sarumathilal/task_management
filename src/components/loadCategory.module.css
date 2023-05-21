@@ -1,0 +1,22 @@
+li{
+    list-style: none;
+    min-width: 20rem;
+    margin: 10px auto;
+}
+
+.op-bttn{
+    width: 90%;
+    height: 1.5rem;
+    background-color: white;
+    border: none;
+    border-radius: 8px;
+
+}
+
+.del-icon{
+    font-size: x-large;
+}
+
+.del-icon:hover{
+    color: red;
+}
